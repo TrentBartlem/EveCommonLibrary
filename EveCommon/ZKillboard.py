@@ -1,7 +1,7 @@
 from BaseAPIConnector import BaseAPIConnector
 
 
-class ZKillBoard(BaseAPIConnector):
+class ZKillboard(BaseAPIConnector):
 
     def __init__(self, user_agent='', character_id=0, corporation_id=0, alliance_id=0, faction_id=0, ship_type_id=0,
                  group_id=0, solar_system_id=0, losses=False, kills=False, wspace=False, solo=False,

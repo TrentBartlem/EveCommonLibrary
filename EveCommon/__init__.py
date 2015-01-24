@@ -1,2 +1,2 @@
-__all__ = ["EveCentral", "ZKillBoard", "SDEConnector"]
+__all__ = ["EveCentral", "ZKillboard", "SDEConnector"]
 __author__ = 'Depre Isu'

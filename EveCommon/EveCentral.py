@@ -62,7 +62,7 @@ class EveCentral(BaseAPIConnector):
             if tree is None:
                 continue
 
-            if self.internal_type_id_list:
+            if self.internal_type_id_list and self.verbose:
                 print('Getting Items starting at %s' % str(self.internal_type_id_list[0]))
 
             for item_type in tree.iter('type'):
