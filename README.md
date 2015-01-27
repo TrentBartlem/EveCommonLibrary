@@ -4,7 +4,7 @@
 
 * Python 2.7
 * Python [Requests](http://docs.python-requests.org/en/latest/) library
-* Eve Online SDE as SQLite Database (you can get it from [Fuzzwork](https://www.fuzzwork.co.uk/))
+* Eve Online SDE as SQLite Database (you can get it from [Fuzzwork](https://www.fuzzwork.co.uk/dump/sqlite-latest.sqlite.bz2))
 
 ## Usage ##
 
